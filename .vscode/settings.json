@@ -1,0 +1,22 @@
+{
+	"[rocket-mvbasic]": {
+		"editor.codeLens": false
+	},
+	"files.associations": {
+		"tpl.plugins": "json",
+		"**/.rmv/config/*.json": "jsonc"
+	},
+	"files.exclude": {
+		"**/.DS_Store": true,
+		"**/.git": true,
+		"**/.hg": true,
+		"**/.rmv/catalog/**": true,
+		"**/.svn": false,
+		"**/CVS": true,
+		"**/Thumbs.db": true,
+		"*/_*": false
+	},
+	"AllAutocomplete.showCurrentDocument": false,
+	"editor.wordWrap": "bounded",
+	"stripe.java.server.mode": "Standard"
+}
